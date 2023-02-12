@@ -1,0 +1,21 @@
+.react-calendar {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+  }
